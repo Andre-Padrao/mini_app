@@ -1,23 +1,24 @@
+# BACKEND
 /api/node_modules
 
-/myblog
-# /myblog/node_modules
-# /myblog/pnp
-# /myblog/pnp.js
+# FRONTEND
+/myblog/node_modules
+/myblog/pnp
+/myblog/pnp.js
 
-# # testing
-# /myblog/coverage
+# testing
+/myblog/coverage
 
-# # production
-# /myblog/build
+# production
+/myblog/build
 
-# # misc
-# /myblog/DS_Store
-# /myblog/env.local
-# /myblog/env.development.local
-# /myblog/env.test.local
-# /myblog/env.production.local
+# misc
+/myblog/DS_Store
+/myblog/env.local
+/myblog/env.development.local
+/myblog/env.test.local
+/myblog/env.production.local
 
-# /myblognpm-debug.log*
-# /myblogyarn-debug.log*
-# /myblogyarn-error.log*
+/myblognpm-debug.log*
+/myblogyarn-debug.log*
+/myblogyarn-error.log*
