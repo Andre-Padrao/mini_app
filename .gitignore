@@ -1,0 +1,23 @@
+/api/node_modules
+
+/myblog
+# /myblog/node_modules
+# /myblog/pnp
+# /myblog/pnp.js
+
+# # testing
+# /myblog/coverage
+
+# # production
+# /myblog/build
+
+# # misc
+# /myblog/DS_Store
+# /myblog/env.local
+# /myblog/env.development.local
+# /myblog/env.test.local
+# /myblog/env.production.local
+
+# /myblognpm-debug.log*
+# /myblogyarn-debug.log*
+# /myblogyarn-error.log*
